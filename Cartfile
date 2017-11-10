@@ -1,1 +1,1 @@
-github "jflinter/Dwifft"
+github "jflinter/Dwifft" ~> 0.6
